@@ -22,7 +22,7 @@ spotless {
 }
 
 intellij {
-    version.set("2022.1.4")
+    version.set("2024.1")
     type.set("IC")
     plugins.set(listOf("java"))
 }
