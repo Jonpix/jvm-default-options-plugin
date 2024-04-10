@@ -1,6 +1,6 @@
 plugins {
     id("java")
-    id("org.jetbrains.intellij") version "1.16.0"
+    id("org.jetbrains.intellij") version "1.17.3"
     id("com.diffplug.spotless") version "6.15.0"
 }
 
